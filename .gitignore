@@ -8,6 +8,10 @@
 .qoder/rules/byterover-rules.md
 .augment/rules/byterover-rules.md
 
+# AI Assistant instructions
+CLAUDE.md
+AGENTS.md
+
 # Python
 __pycache__/
 *.py[cod]
